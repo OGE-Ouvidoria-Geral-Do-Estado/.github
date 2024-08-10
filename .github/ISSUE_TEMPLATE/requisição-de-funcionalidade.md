@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**O seu pedido de funcionalidade está relacionado com um problema? Por favor, descreva.*
+## O seu pedido de funcionalidade está relacionado com um problema? Por favor, descreva.
 Uma descrição clara e concisa do problema. Ex: Sinto-me sempre frustrado quando [...]
 
-**Descreva a solução que pretende**
+## Descreva a solução que pretende
 Uma descrição clara e concisa do que pretende que aconteça.
 
-**Descreva as alternativas que considerou**
+## Descreva as alternativas que considerou
 Uma descrição clara e concisa de quaisquer soluções ou características alternativas que tenha considerado.
 
-**Contexto adicional**
+## Contexto adicional
 Adicione aqui qualquer outro contexto ou capturas de tela sobre o pedido de funcionalidade.
